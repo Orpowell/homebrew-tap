@@ -29,7 +29,7 @@ class Pymol < Formula
   depends_on "netcdf"
   depends_on "numpy"
   depends_on "pyqt"
-  depends_on "python@3.14"
+  depends_on "python@3.9"
 
   uses_from_macos "libxml2"
 
