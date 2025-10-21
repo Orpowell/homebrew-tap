@@ -66,7 +66,7 @@ class Pymol < Formula
   end
 
   def python3
-    which("python3.14")
+    which("python3.9")
   end
 
   def install
