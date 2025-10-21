@@ -62,7 +62,7 @@ class Pymol < Formula
   # Allow numpy 2+, remove on next release
   patch do
     url "https://github.com/schrodinger/pymol-open-source/commit/9ea504ea8d5400b195e72ae84e221ddfee54ee45.patch?full_index=1"
-    sha256 "9ea504ea8d5400b195e72ae84e221ddfee54ee45"
+    sha256 "548d53c7b86c9f9f0419bf23e11b2a97d93321cd34337aab89e780a4558b702e"
   end
 
   def python3
